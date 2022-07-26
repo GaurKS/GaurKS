@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Social banner for GaurKS](https://github.com/GaurKS/GaurKS/raw/main/guthub_banner.png)
+![Social banner for GaurKS](https://github.com/GaurKS/GaurKS/raw/main/github_banner.png)
 
 <!-- ### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GaurKS&count-private=true&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
