@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My GitHub Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=GaurKS
