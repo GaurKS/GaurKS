@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="./header.png" width="600" height="300"/>
 </div> -->
 
-[![Social banner for RankJay](https://github.com/GaurKS/GaurKS/raw/master/Header.png)]
+[![Social banner for RankJay](https://github.com/GaurKS/GaurKS/raw/main/Header.png)]
 
 ### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GaurKS&count-private=true&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
