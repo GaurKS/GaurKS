@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 ![](https://komarev.com/ghpvc/?username=GaurKS)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurKS)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurKS&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
