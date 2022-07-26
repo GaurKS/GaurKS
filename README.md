@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My GitHub Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=GaurKS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GaurKS&theme=dark&background=000000)](https://git.io/streak-stats)
