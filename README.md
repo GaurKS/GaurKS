@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=GaurKS)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurKS&count-private=true)]
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurKS&count_private=true)
