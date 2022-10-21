@@ -1,5 +1,6 @@
 
 ![Social banner for GaurKS](https://github.com/GaurKS/GaurKS/raw/main/github_banner.png)
+
 [![@krugarr's Holopin board](https://holopin.me/krugarr)](https://holopin.io/@krugarr)
 
 
