@@ -1,12 +1,12 @@
 
 ![Social banner for GaurKS](https://github.com/GaurKS/GaurKS/raw/main/github_banner.png)
 
-[![@krugarr's Holopin board](https://holopin.me/krugarr)](https://holopin.io/@krugarr)
+
 
 
 <!--
 **GaurKS/GaurKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+holopin badge board: [![@krugarr's Holopin board](https://holopin.me/krugarr)](https://holopin.io/@krugarr)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
